@@ -6,7 +6,7 @@ This is my solution, find the original challenge here: https://codesandbox.io/s/
 ## Use
 
 - git clone `this repo`
-- cd into `this repo`
+- cd into it
 - npm install
 - npm run dev
 - go to localhost:5173
